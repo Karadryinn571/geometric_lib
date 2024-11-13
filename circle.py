@@ -12,7 +12,7 @@ def area(r):
             Площадь окружности с радиусом r
 
         Примеры вызова:
-            area(4) # 12.56
+            area(2) # 12.56
     '''
     return math.pi * r * r
 
@@ -31,4 +31,3 @@ def perimeter(r):
             perimeter(3) # 18.84
     '''
     return 2 * math.pi * r
-

@@ -87,7 +87,7 @@
 - Площадь окружности с радиусом r
 
 Примеры вызова:
-- `area(4) # 12.56`
+- `area(2) # 12.56`
 
 ##  
 
@@ -160,6 +160,10 @@
 
 # История коммитов
 
+- dcf58f5 Updateed Documentation
+- a31ea94 Another documentation fixes
+- dc6693d Fixed documentation
+- 1051f0d Added README.md documentation
 - ca86932 Added code documentation
 - ae15652 Added triangle.py and fixed bug in rectangle.py
 - 568fc1e Added rectangle.py
